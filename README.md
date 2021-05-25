@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFO-0K2EfBISw/profile-displaybackgroundimage-shrink_350_1400/0/1600512196844?e=1627516800&v=beta&t=FFUWQNSLmIBD539E6LISs7d33g6LZEMEtyfDxUjr7jU)](https://www.linkedin.com/in/saurabhsaini400/)
  <h1 align="center">Hi<img alt="Coding" width="30" height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Ayush Guglani</h1>
-<h3 align="center">A Budding Programmer and  a passionate Frontend Develpoer.</h3>
+<h3 align="center">A Budding Programmer and  a Passionate Frontend Develpoer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsaini400&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsaini400" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
