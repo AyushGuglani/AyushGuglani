@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhsaini400" alt="saurabhsaini400" /></a> </p> -->
 
-- <img width="70" align="center" src="https://i0.wp.com/www.techjunkie.com/wp-content/uploads/2018/12/isometric-computer.gif?resize=233%2C233&ssl=1" />  I’m currently working on **FITNESS WEBSITE**
+- <img width="70" align="center" src="https://i0.wp.com/www.techjunkie.com/wp-content/uploads/2018/12/isometric-computer.gif?resize=233%2C233&ssl=1" />  I’m currently working on  brushing up my skills.
 
 - <img width="70" align="center" src="https://media.giphy.com/media/WsSFNQkz3t9kJ8Ivnu/giphy.gif" /> Ask me about **C++,C,HTML,CSS**
 
